@@ -1,9 +1,9 @@
-package main.java.softdesign;
+package main.java.robotsimulator;
 
 import java.awt.Color;
 import java.util.ArrayList;
 import simbad.gui.Simbad;
-import main.java.softdesign.Environment;
+import main.java.robotsimulator.Environment;
 
 /**
  *

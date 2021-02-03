@@ -1,4 +1,4 @@
-package main.java.softdesign;
+package main.java.robotsimulator;
 
 import java.awt.Color;
 
